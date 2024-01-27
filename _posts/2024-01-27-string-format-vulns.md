@@ -141,7 +141,7 @@ You may wonder how I found that 6 `%p` were necessary: honestly I tried with 1,
 the stack and the local variables of the `main` function. This value depends on
 the platform and I did not want to look deep into this :).
 
-![`bad_printf`](/assets/printf_pwn.jpg)
+![`printf_pwn`](/assets/printf_pwn.jpg)
 
 The picture above tries to illustrate the flow we described that leads `printf`
 to show us the content of the `flag` variable.
