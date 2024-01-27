@@ -121,4 +121,30 @@ interesting to show us.
 
 ## Cooking a payload and pwning
 
-TODO
+Long stories short, the payload that worked for me was:
+`{flag pointer address}+"%p %p %p %p %p %p %s %p %p"`
+
+Here's how I understand why: sending this value puts this string in the char
+array allocated on the stack of the main function. When `printf` get called,
+this string is read from left to right, and interprets each format specifier one
+after the other. The first 6 `%p` tell the `printf` algorithm to look 6 bytes
+forward in the stack and display these bytes as a hexadecimal value. After the
+6th `%p`, it seems that the `printf` algorithms looks at the beginning of the
+`input` value to know how to replace the given `%s` specifier. Fortunately, we
+put the previously retrieved address of the `flag` string as the first value in
+input! The `printf` algorithm therefore interprets this as "OK, this address is
+the address of a string I should print to replace this `%s` specifier", and
+gives us the content of the `flag` variable.
+
+You may wonder how I found that 6 `%p` were necessary: honestly I tried with 1,
+2, 3, up to 6. This value depends on what is between the `printf` arguments in
+the stack and the local variables of the `main` function. This value depends on
+the platform and I did not want to look deep into this :).
+
+![`bad_printf`](/assets/bad_printf.jpg)
+
+The picture above tries to illustrate the flow we described that leads `printf` to show us the content of the `flag` variable.
+
+I hope this helped you to better understand how to perform this kind of attack
+and maybe solve your CTF. Let me know in case you would like more information or
+if something is not clear (see contact info on home page).
