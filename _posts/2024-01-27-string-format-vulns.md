@@ -90,7 +90,7 @@ the local variables used by the function. This
 [image](https://commons.wikimedia.org/wiki/File:Call_stack_layout.svg#/media/File:Call_stack_layout.svg)
 from the Call stack Wikipedia page gives a good idea for this.
 
-![`normal_printf`](/_posts//_2024-01-27-figures/normal_printf.jpg)
+![`normal_printf`](./2024-01-27-figures/normal_printf.jpg)
 
 The image represents roughly what happens when the function is called. We see
 that the stack stores 2 parameters for the `printf` function: a pointer to the
@@ -113,7 +113,7 @@ pointer to be displayed, and this one should be the second parameter to
 `printf` algorithm will still read whatever comes next on the stack and use it
 as if it were the second parameter to `printf`.
 
-![`bad_printf`](/_posts/_2024-01-27-figures/bad_printf.jpg)
+![`bad_printf`](./2024-01-27-figures/bad_printf.jpg)
 
 The above picture represents what could happen. We now see how we could prepare
 a special format string that will read on the stack until it can find something
