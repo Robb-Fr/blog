@@ -23,9 +23,9 @@ company usable VPN solution!
 
 ## Contact
 
-Fell free to send my an e-mail about anything related to this blog at tom at
-robb-i.net. I am happy to receive encrypted e-mail so feel free to use the
-following PGP key:
+Fell free to send my an e-mail about anything related to this blog at **tom** 
+**at robb-i.net**. I am happy to receive encrypted e-mail so feel free to use
+the following PGP key:
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
