@@ -27,10 +27,8 @@ the following PGP key:
 
 <details>
   <summary>Click to show the key</summary>
-  This 
-  [link](https://support.mozilla.org/en-US/kb/introduction-to-e2e-encryption)
-  could help if you do not know how to send encrypted e-mail.
-  ```text
+  
+  ~~~text
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
   xjMEYrN9RBYJKwYBBAHaRw8BAQdA2a562nzfhuH5Q1YDuovPDiQjLAYK+mwX
@@ -45,5 +43,5 @@ the following PGP key:
   AsRmn6MC
   =nPPg
   -----END PGP PUBLIC KEY BLOCK-----
-  ```
+  ~~~
 </details>
