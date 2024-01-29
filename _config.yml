@@ -1,3 +1,4 @@
+theme: minima
 minima:
   skin: solarized
 title: "A blog for cybersecurity curious people"
