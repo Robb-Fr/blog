@@ -27,8 +27,7 @@ the following PGP key:
 
 <details>
   <summary>Click to show the key</summary>
-  
-  ~~~text
+  <pre>
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
   xjMEYrN9RBYJKwYBBAHaRw8BAQdA2a562nzfhuH5Q1YDuovPDiQjLAYK+mwX
@@ -43,5 +42,5 @@ the following PGP key:
   AsRmn6MC
   =nPPg
   -----END PGP PUBLIC KEY BLOCK-----
-  ~~~
+  </pre>
 </details>
