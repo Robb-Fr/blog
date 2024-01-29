@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-## Welcome
+## A blog for cybersecurity curious persons
 
 Welcome to this blog. I am Robb and I will post here stuff I wish someone
 explained to me before I spent hours struggling :). I am interested in many
@@ -10,13 +10,11 @@ computer related things, but mostly I enjoy browsing about cryptography,
 networking security, privacy enhancing technologies, open-source stuff or
 software security.
 
-## Studies
+## Studies & job
 
 I studied at EPFL (Switzerland) for a bachelor and master in Communication
 Systems and specialized in cybersecurity with a minor in educational
 sciences.
-
-## Job
 
 I am currently working on my master's thesis about developing a WireGuard based
 company usable VPN solution!
