@@ -27,20 +27,23 @@ the following PGP key:
 
 <details>
   <summary>Click to show the key</summary>
-```plaintext
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-xjMEYrN9RBYJKwYBBAHaRw8BAQdA2a562nzfhuH5Q1YDuovPDiQjLAYK+mwX
-NuGXkeh10s3NH3RvbUByb2JiLWkubmV0IDx0b21Acm9iYi1pLm5ldD7CjwQQ
-FgoAIAUCYrN9RAYLCQcIAwIEFQgKAgQWAgEAAhkBAhsDAh4BACEJEBzgrobk
-jYcMFiEEDYt90JkKdErf96jaHOCuhuSNhwyiuAD9HvAelspRFsxRYzstAeJc
-yBXRn0C3MwXjrYYHsf4N2uEA/21tkICYe4mp3GK1b8kQgHvPXWB8xTzQoIfE
-KhQU08cDzjgEYrN9RBIKKwYBBAGXVQEFAQEHQFsKq+HirYpaewvsqQAwXfiC
-HBdkhKvWoZ8sTieJ/rY9AwEIB8J4BBgWCAAJBQJis31EAhsMACEJEBzgrobk
-jYcMFiEEDYt90JkKdErf96jaHOCuhuSNhwzNEAEAsRNoEUbcAFNp2MklQxor
-BeYVgbAVZCmDCQ4vcwVHb8ABALPOCp+8VREw2mLbxMsFjhZtfu7p5gOiujcI
-AsRmn6MC
-=nPPg
------END PGP PUBLIC KEY BLOCK-----
-```
+  This 
+  [link](https://support.mozilla.org/en-US/kb/introduction-to-e2e-encryption)
+  could help if you do not know how to send encrypted e-mail.
+  ```text
+  -----BEGIN PGP PUBLIC KEY BLOCK-----
+  
+  xjMEYrN9RBYJKwYBBAHaRw8BAQdA2a562nzfhuH5Q1YDuovPDiQjLAYK+mwX
+  NuGXkeh10s3NH3RvbUByb2JiLWkubmV0IDx0b21Acm9iYi1pLm5ldD7CjwQQ
+  FgoAIAUCYrN9RAYLCQcIAwIEFQgKAgQWAgEAAhkBAhsDAh4BACEJEBzgrobk
+  jYcMFiEEDYt90JkKdErf96jaHOCuhuSNhwyiuAD9HvAelspRFsxRYzstAeJc
+  yBXRn0C3MwXjrYYHsf4N2uEA/21tkICYe4mp3GK1b8kQgHvPXWB8xTzQoIfE
+  KhQU08cDzjgEYrN9RBIKKwYBBAGXVQEFAQEHQFsKq+HirYpaewvsqQAwXfiC
+  HBdkhKvWoZ8sTieJ/rY9AwEIB8J4BBgWCAAJBQJis31EAhsMACEJEBzgrobk
+  jYcMFiEEDYt90JkKdErf96jaHOCuhuSNhwzNEAEAsRNoEUbcAFNp2MklQxor
+  BeYVgbAVZCmDCQ4vcwVHb8ABALPOCp+8VREw2mLbxMsFjhZtfu7p5gOiujcI
+  AsRmn6MC
+  =nPPg
+  -----END PGP PUBLIC KEY BLOCK-----
+  ```
 </details>
