@@ -1,4 +1,6 @@
-theme: minima
+minima:
+  skin: solarized
 title: "A blog for cybersecurity curious people"
 author: Robb-Fr
 description: "I write posts about the interesting information security stuff I find about"
+show_excerpts: true
