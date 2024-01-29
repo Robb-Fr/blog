@@ -1,7 +1,7 @@
 ---
 title: "Exploiting string format vulnerabilities"
 date: 2024-01-27
-categories: C printf stack software-security ctf string-format
+tags: C printf stack software-security ctf string-format
 ---
 
 During a lab of Software Security class at EPFL, we came across this exercise on
