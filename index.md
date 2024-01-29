@@ -25,6 +25,8 @@ Fell free to send my an e-mail about anything related to this blog at **tom**
 **at robb-i.net**. I am happy to receive encrypted e-mail so feel free to use
 the following PGP key:
 
+<details>
+  <summary>Click to show the key</summary>
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -41,3 +43,4 @@ AsRmn6MC
 =nPPg
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+</details>
