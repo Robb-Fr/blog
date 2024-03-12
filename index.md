@@ -44,3 +44,5 @@ the following PGP key:
   -----END PGP PUBLIC KEY BLOCK-----
   </pre>
 </details>
+
+<a rel="me" href="https://infosec.exchange/@Robb_Fr"></a>
