@@ -2,6 +2,8 @@
 title: Welcome to my blog
 ---
 
+<link rel="me" href="https://infosec.exchange/@Robb_Fr">
+
 ## A blog for cybersecurity curious persons
 
 Welcome to this blog. I am Robb and I will post here stuff I wish someone
@@ -44,5 +46,3 @@ the following PGP key:
   -----END PGP PUBLIC KEY BLOCK-----
   </pre>
 </details>
-
-<a rel="me" href="https://infosec.exchange/@Robb_Fr"></a>
