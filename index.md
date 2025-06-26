@@ -2,13 +2,10 @@
 title: Welcome to my blog
 ---
 
-<link rel="me" href="https://infosec.exchange/@Robb_Fr">
-
 ## A blog for cybersecurity curious persons
 
-Welcome to this blog. I am Robb and I will post here stuff I wish someone
-explained to me before I spent hours struggling :). I am interested in many
-computer related things, but mostly I enjoy browsing about cryptography,
+Welcome to this blog. I try to post some cool things I worked on.
+I am interested in many computer related things, but mostly I enjoy browsing about web security, cryptography,
 networking security, privacy enhancing technologies, open-source stuff or
 software security.
 
@@ -18,8 +15,7 @@ I studied at EPFL (Switzerland) for a bachelor and master in Communication
 Systems and specialized in cybersecurity with a minor in educational
 sciences.
 
-I am currently working on my master's thesis about developing a WireGuard based
-company usable VPN solution!
+I am currently working at e-Xpert Solutions, a Swiss cybersecurity company, on application security related topics.
 
 ## Contact
 
